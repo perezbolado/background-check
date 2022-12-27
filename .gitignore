@@ -1,0 +1,5 @@
+.DS_Store
+Pipfile.lock
+__pycache__
+speng/__pycache__
+bckchek/__pycache__
